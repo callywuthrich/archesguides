@@ -12,3 +12,11 @@ defaults:
       author_profile: false
 ---
 
+
+# Graph
+
+
+# Cards
+
+
+# Permissions
